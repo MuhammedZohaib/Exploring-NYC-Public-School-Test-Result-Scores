@@ -14,7 +14,7 @@ This Jupyter Notebook analyzes SAT scores data for schools. It performs several 
 1. Ensure you have Jupyter Notebook installed on your system.
 2. Install required dependencies using `pip install pandas numpy`.
 3. Download the dataset file named `schools.csv` and place it in the same directory as the Jupyter Notebook file.
-4. Open the Jupyter Notebook file `school_sat_analysis.ipynb`.
+4. Open the Jupyter Notebook file `notebook.ipynb`.
 5. Execute each cell in the notebook to perform the analysis.
 6. View the output which includes information on schools with high math scores, top 10 schools with the highest total SAT scores, and the borough with the largest standard deviation in SAT scores.
 
